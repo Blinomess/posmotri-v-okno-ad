@@ -61,7 +61,7 @@ ol {
   background-color: #D9D9D9;
 }
 
-.button{
+.button {
   height: 34px;
   background: transparent;
   border: 1px solid #fff;
@@ -72,16 +72,16 @@ ol {
   cursor: pointer;
 }
 
-.button:hover{
+.button:hover {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
-.button:active{
+.button:active {
   background-color: #545050;
 }
 
-.button:focus-visible{
+.button:focus-visible {
   outline: 1px solid #fff;
   outline-offset: 1px;
 }
@@ -294,7 +294,7 @@ ol {
   margin-left: 3px;
 }
 
-.content__list-item{
+.content__list-item {
   padding: 3px;
 }
 
@@ -315,6 +315,6 @@ ol {
   z-index: 2;
 }
 
-.content__card-link_current .content__video-card{
+.content__card-link_current .content__video-card {
   background-color: #545050;
 }
